@@ -6,11 +6,9 @@
 - 🧠 I'm currently researching digital twins & immersive technologies(VR/AR/MR), and exploring how these technologies influence user's experiences in healthcare, art & cultural settings.
 - ❤️ I enjoy transforming ideas into interactive tools that make everyday tasks easier, more engaging, and more meaningful.
   
-- 👯 I’m looking to collaborate on: 📱 Mobile & Web App development 🎮 Unity games or interactive experiences 🎨 Creative tech projects (museums, art installations, education) 🥽 Research-driven projects in immersive technologies
-      
-- 🌱🚀 I’m looking for help with: ✨ Advanced UX research 🥽 Designing immersive user experiences 🧩 Best practices for scalable, maintainable software architecture
+- 👯🌱 I’m looking for collaborations & learning opportunities in: 📱 Mobile & Web App development 🎮 Unity games or interactive experiences 🎨 Creative tech projects (museums, art installations, education) 💡 Research-driven projects in immersive technologies ✨ Advanced UX research 🥽 Designing immersive user experiences 🧩 Best practices for scalable, maintainable software architecture
   	  
-- 📫 I can be reached via: 💼 LinkedIn: https://www.linkedin.com/in/sufanglai/ OR 👉 Email: laisg@mail.uc.edu
+- 📫 I can be reached via [LinkedIn](https://www.linkedin.com/in/sufanglai/)  OR [Email](mailto:laisg@mail.uc.edu)
 
 - 📊 My GitHub Stats: 
 
