@@ -1,23 +1,22 @@
-## Hi there 👋😄
 
-I'm Sufang 😊🌱
 
-❤️ I enjoy transforming ideas into interactive tools that make everyday tasks easier, more engaging, and more meaningful. Whether it’s a mobile app, a game, or an immersive experience, my goal is always to design solutions that genuinely enhance people’s lives. 
+## 👋 Hi there ~ I'm Sufang 😊
 
-- 👩‍🎓 I’m an MSIT graduate student at University of Cincinnati, focusing on software development and user experience design.
-- 🧠 I'm currently researching digital twins and immersive technologies, and exploring how VR, AR, and MR influence user experience in healthcare, art & cultural spaces, and learning environments.
-- 👯 I’m looking to collaborate on: 
-	- 📱 Mobile & Web App development 
- 	- 🎮 Unity games or interactive experiences
-    - 🎨 Creative tech projects (museums, art installations, education)
-    - 🥽 Research-driven projects in immersive technologies
+- 👩‍🎓 I’m an MSIT graduate student at University of Cincinnati, focusing on software development & user experience design.
+- 🧠 I'm currently researching digital twins & immersive technologies(VR/AR/MR), and exploring how these technologies influence user's experiences in healthcare, art & cultural settings.
+- ❤️ I enjoy transforming ideas into interactive tools that make everyday tasks easier, more engaging, and more meaningful.
+  
+- 👯 I’m looking to collaborate on: 📱 Mobile & Web App development 🎮 Unity games or interactive experiences 🎨 Creative tech projects (museums, art installations, education) 🥽 Research-driven projects in immersive technologies
       
-- 🤔 I’m looking for help with:
-	- ✨ Advanced UX research methods
- 	- 🥽 Designing immersive user experiences
-  	- 🧩 Best practices for scalable, maintainable software architecture
+- 🌱🚀 I’m looking for help with: ✨ Advanced UX research 🥽 Designing immersive user experiences 🧩 Best practices for scalable, maintainable software architecture
   	  
-- 📫 How to reach me:
-	- 💼 LinkedIn: https://www.linkedin.com/in/sufanglai/ 
- 	- ✉️ Email: laisg@mail.uc.edu
-  	- 🌐 Portfolio: https://laisufang.github.io/MyPortfolio/ 
+- 📫 I can be reached via: 💼 LinkedIn: https://www.linkedin.com/in/sufanglai/ OR 👉 Email: laisg@mail.uc.edu
+
+- 📊 My GitHub Stats: 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaiSufang&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiSufang&layout=compact&theme=github_dark" height="160"/>
+</p>
+
+
