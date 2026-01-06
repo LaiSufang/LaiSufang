@@ -10,11 +10,4 @@
   	  
 - 📫 I can be reached via [LinkedIn](https://www.linkedin.com/in/sufanglai/)  OR [Email](mailto:laisg@mail.uc.edu)
 
-- 📊 My GitHub Stats: 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaiSufang&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiSufang&layout=compact&theme=github_dark" height="160"/>
-</p>
-
 
